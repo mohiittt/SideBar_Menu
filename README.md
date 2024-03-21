@@ -3,6 +3,10 @@
 ## Description
 This project is a responsive sidebar menu designed and implemented using HTML, CSS, and JavaScript. It provides a sleek and modern interface for navigation, featuring smooth animations and transitions. The sidebar menu offers efficient access to various sections of a website or application, enhancing user experience and usability.
 
+## Deployed Project 
+
+https://mohiittt.github.io/SideBar_Menu/
+
 ## Features
 - Responsive design ensures compatibility with different screen sizes and devices.
 - Smooth animations and transitions enhance visual appeal and user interaction.
